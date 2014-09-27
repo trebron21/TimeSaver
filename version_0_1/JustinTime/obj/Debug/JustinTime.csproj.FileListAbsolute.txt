@@ -1,0 +1,9 @@
+c:\users\trebron21\documents\visual studio 2013\Projects\JustinTime\JustinTime\bin\Debug\JustinTime.exe.config
+c:\users\trebron21\documents\visual studio 2013\Projects\JustinTime\JustinTime\bin\Debug\JustinTime.exe
+c:\users\trebron21\documents\visual studio 2013\Projects\JustinTime\JustinTime\bin\Debug\JustinTime.pdb
+c:\users\trebron21\documents\visual studio 2013\Projects\JustinTime\JustinTime\obj\Debug\JustinTime.csprojResolveAssemblyReference.cache
+c:\users\trebron21\documents\visual studio 2013\Projects\JustinTime\JustinTime\obj\Debug\JustinTime.Properties.Resources.resources
+c:\users\trebron21\documents\visual studio 2013\Projects\JustinTime\JustinTime\obj\Debug\JustinTime.csproj.GenerateResource.Cache
+c:\users\trebron21\documents\visual studio 2013\Projects\JustinTime\JustinTime\obj\Debug\JustinTime.exe
+c:\users\trebron21\documents\visual studio 2013\Projects\JustinTime\JustinTime\obj\Debug\JustinTime.pdb
+c:\users\trebron21\documents\visual studio 2013\Projects\JustinTime\JustinTime\obj\Debug\JustinTime.frmMain.resources
