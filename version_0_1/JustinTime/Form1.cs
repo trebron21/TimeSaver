@@ -9,6 +9,8 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
 
+// Divide it into multiple classes
+
 /*
  * Planned features:
  *      - append a task with start and end time, without waiting for the time to elapse
